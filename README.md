@@ -1,1 +1,2 @@
 # ManMachineNature
+![](ManMachineNature.png)
