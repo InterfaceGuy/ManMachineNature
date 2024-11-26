@@ -1,0 +1,4 @@
+ManMachineNature.gif filter=lfs diff=lfs merge=lfs -text
+ManMachineNature.key filter=lfs diff=lfs merge=lfs -text
+TwoRealms.gif filter=lfs diff=lfs merge=lfs -text
+.git/objects/pack/pack-a9f2bfa1804d7844107882c97ac963bbf9531ef7.pack filter=lfs diff=lfs merge=lfs -text
